@@ -1,0 +1,6 @@
+{
+  "name": "IMSciences AI Helpdesk",
+  "description": "Official AI-powered University Helpdesk for Institute of Management Sciences (IMSciences), Peshawar. Accurate admissions, scholarships, fees, academics, exams, and student services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
